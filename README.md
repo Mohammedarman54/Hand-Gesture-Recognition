@@ -42,6 +42,4 @@ This project implements a **Hand Gesture Recognition** system using **Python, Op
 **Mohammed Arman Ali**  
 [GitHub](https://github.com/Mohammedarman54) | [LinkedIn](https://www.linkedin.com/in/mohammed-arman-ali-b58829258/)  
 
----
 
-This **README** provides a **structured and clear** explanation of your project. Let me know if you need modifications! 🚀
